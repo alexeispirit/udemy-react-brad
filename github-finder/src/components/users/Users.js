@@ -1,7 +1,6 @@
 import React, { useContext } from "react";
 import UserItem from "./UserItem";
 import Spinner from "../layout/Spinner";
-import PropTypes from "prop-types";
 
 import GithubContext from "../../context/github/githubContext";
 
@@ -22,8 +21,6 @@ const Users = () => {
     </div>
   );
 };
-
-// Users.propTypes = {};
 
 const userStyle = {
   display: "grid",
