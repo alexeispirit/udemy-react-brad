@@ -6,13 +6,6 @@
       "tech": "Sara Wilson",
       "date": "2019-09-09T06:37:34.537Z",
       "id": 1
-    },
-    {
-      "message": "Hard drive fail on 002",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2019-09-09T06:37:58.050Z",
-      "id": 2
     }
   ],
   "techs": [
