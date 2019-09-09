@@ -6,6 +6,13 @@
       "tech": "Sara Wilson",
       "date": "2019-09-09T06:37:34.537Z",
       "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fail on server 007",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2019-09-09T07:06:19.173Z"
     }
   ],
   "techs": [
